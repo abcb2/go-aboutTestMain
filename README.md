@@ -40,3 +40,8 @@ PASS
 ----------FINISH
 ok  	github.com/abcb2/sampleTest	0.067s
 ```
+
+# subdirectory
+フォルダ階層の認識してくれないのでtestディレクトリに1階層でまとめることにした。
+
+`test/foo` 以下のテストは実行されない
